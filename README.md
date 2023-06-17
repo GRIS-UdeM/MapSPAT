@@ -1,2 +1,2 @@
 # MapSPAT
-Tool for cool things
+Digital tool for spatializing sound in real-time using audio descriptor analysis
