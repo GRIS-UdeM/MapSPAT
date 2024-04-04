@@ -9,7 +9,7 @@ It is designed to address two needs: to create spatialization linked to sound's 
 ## Features
 
 - Real-time spatialization through audio descriptor analysis:
-  - Loudness, pitch, spectral centroid, spectral spread, noisiness
+  - Loudness, Pitch, Spectral Centroid, Spectral Spread, Noisiness
 - Mapping data obtained to spatial parameters related to sound location and size
 - User-friendly interface requiring no programming skills
 - Hands-free operation for live performances, particularly advantageous while playing musical instruments
