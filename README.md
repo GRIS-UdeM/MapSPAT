@@ -33,4 +33,4 @@ A demonstration Ableton Live project is available to explore the device's functi
 
 ## About
 
-MapSPAT is developed by Nicola Giannini and Jean-Philippe Jullin at the Faculty of Music at the University of Montreal with the support of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT).
+MapSPAT is developed by [Nicola Giannini](https://github.com/NicolaGiannini) and [Jean-Philippe Jullin](https://github.com/jpjullin) at the Faculty of Music at the University of Montreal with the support of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT).
