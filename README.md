@@ -18,7 +18,7 @@ It is designed to address two needs: to create spatialization linked to sound's 
 
 MapSPAT is a MaxForLive device that can be used in Ableton Live (10, 11, 12) or as a stand-alone tool in MaxMSP. It is based on FluCoMa audio descriptors (https://www.flucoma.org) and the SpatGRIS spatialization system (https://gris.musique.umontreal.ca/).
 
-To use MapSPAT you need to install SpatGRIS and an audio routing software (such as BlackHole for Mac and Jackrouter for Windows) to send audio from Ableton Live to SpatGRIS. For more information on audio routing and SpatGRIS operation, you can refer to the SpatGRIS manual available in the software's help window. Considering the workflow of SpatGRIS, MapSPAT can be used instead of ControlGRIS plugin.
+To use MapSPAT, you need to install SpatGRIS and audio routing software (such as BlackHole for Mac and Jackrouter for Windows) to send audio from Ableton Live to SpatGRIS. For more information on audio routing and SpatGRIS operation, refer to the SpatGRIS manual, which is available in the software's help window. Considering SpatGRIS's workflow, MapSPAT can be used instead of the ControlGRIS plugin.
 
 To use MapSPAT:
 
@@ -29,8 +29,8 @@ To use MapSPAT:
 
 We recommend using the latest version of MaxMSP rather than the bundled version in Ableton Live.
 
-A demonstration Ableton Live project is available so you can explore the device's fonctions (https://github.com/GRIS-UdeM/MapSPAT/tree/main/Demo%20Project).
+A demonstration Ableton Live project is available to explore the device's functions: [Demo Project](Demo%20Project)
 
 ## About
 
-MapSPAT is developed by Nicola Giannini and Jean-Philippe Jullin at the Faculty of Music at the University of Montreal, with the support of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT).
+MapSPAT is developed by [Nicola Giannini](https://github.com/NicolaGiannini) and [Jean-Philippe Jullin](https://github.com/jpjullin) at the Faculty of Music at the University of Montreal with the support of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT).
