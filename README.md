@@ -9,14 +9,15 @@ It is designed to address two needs: to create spatialization linked to sound's 
 ## Features
 
 - Real-time spatialization through audio descriptor analysis:
-  - Loudness, Pitch, Spectral Centroid, Spectral Spread, Noisiness
-- Mapping data obtained to spatial parameters related to sound location and size
-- User-friendly interface requiring no programming skills
-- Hands-free operation for live performances, particularly advantageous while playing musical instruments
+  - Loudness, Pitch, Spectral Centroid, Spectral Spread, Noisiness.
+- Mapping data obtained to spatial parameters related to sound location and size.
+- Spatial parameters can also be controlled through an LFO function and a Random function.
+- User-friendly interface requiring no programming skills.
+- Hands-free operation for live performances, particularly advantageous while playing musical instruments.
 
 ## Usage
 
-MapSPAT is a MaxForLive device that can be used in Ableton Live (10, 11, 12) or as a stand-alone tool in MaxMSP. It is based on FluCoMa audio descriptors (https://www.flucoma.org) and the SpatGRIS spatialization system (https://gris.musique.umontreal.ca/).
+MapSPAT is a MaxForLive device that can be used in Ableton Live (10 and 11 and it should work also with Ableton Live 12) or as a stand-alone MaxMSP patch. It is based on FluCoMa audio descriptors (https://www.flucoma.org) and the SpatGRIS spatialization system (https://gris.musique.umontreal.ca/).
 
 To use MapSPAT, you need to install SpatGRIS and audio routing software (such as BlackHole for Mac and Jackrouter for Windows) to send audio from Ableton Live to SpatGRIS. For more information on audio routing and SpatGRIS operation, refer to the SpatGRIS manual, which is available in the software's help window. Considering SpatGRIS's workflow, MapSPAT can be used instead of the ControlGRIS plugin.
 
@@ -33,4 +34,4 @@ A demonstration Ableton Live project is available to explore the device's functi
 
 ## About
 
-MapSPAT is developed by [Nicola Giannini](https://github.com/NicolaGiannini) and [Jean-Philippe Jullin](https://github.com/jpjullin) at the Faculty of Music at the University of Montreal with the support of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT).
+MapSPAT is developed by [Nicola Giannini](nicolagiannini.com) and [Jean-Philippe Jullin](https://github.com/jpjullin) at the Faculty of Music at the University of Montreal with the support of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) and the Fonds de recherche du Québec – Société et culture (FRQSC).
