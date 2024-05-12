@@ -5,7 +5,8 @@ MapSPAT enables real-time spatialization through audio descriptor analysis.
 It is designed to address two needs: to create spatialization linked to sound's spectral variations and to allow real-time spatialization without relying on automations. This tool is helpful when planning all spatialization aspects before a concert is impractical or not preferred.
 
 ![device](Docs/device.jpeg)
-![Device-107](Docs/Device-107.jpeg)
+![Device-107](Docs/Device-107.jpg)
+![Device-107](https://github.com/GRIS-UdeM/MapSPAT/assets/35705913/9a659c71-152d-400f-a30b-76162985635f)
 
 ## Features
 
