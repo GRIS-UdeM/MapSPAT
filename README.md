@@ -31,6 +31,7 @@ To use MapSPAT:
 We recommend using the latest version of MaxMSP rather than the bundled version in Ableton Live.
 
 A user manual is available here: [User Manual](MapSPAT-UserManual.pdf)
+
 A demonstration Ableton Live project is available to explore the device's functions: [Demo Project](Demo%20Project)
 
 ## About
