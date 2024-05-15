@@ -17,7 +17,7 @@ It is designed to address two needs: to create spatialization linked to sound's 
 
 ## Usage
 
-MapSPAT is a MaxForLive device that can be used in Ableton Live (10 and 11 and it should work also with Ableton Live 12) or as a stand-alone MaxMSP patch. It is based on FluCoMa audio descriptors (https://www.flucoma.org) and the SpatGRIS spatialization system (https://gris.musique.umontreal.ca/).
+MapSPAT is a MaxForLive device that can be used in Ableton Live (10 and 11, and it should also work with Ableton Live 12) or as a stand-alone MaxMSP patch. It is based on FluCoMa audio descriptors (https://www.flucoma.org) and the SpatGRIS spatialization system (https://gris.musique.umontreal.ca/).
 
 To use MapSPAT, you need to install SpatGRIS and audio routing software (such as BlackHole for Mac and Jackrouter for Windows) to send audio from Ableton Live to SpatGRIS. For more information on audio routing and SpatGRIS operation, refer to the SpatGRIS manual, which is available in the software's help window. Considering SpatGRIS's workflow, MapSPAT can be used instead of the ControlGRIS plugin.
 
@@ -29,6 +29,8 @@ To use MapSPAT:
 4. Activate the mappings in the matrix to send the spatialization OSC signals to SpatGRIS.
 
 We recommend using the latest version of MaxMSP rather than the bundled version in Ableton Live.
+
+A user manual is available here: [User Manual](MapSPAT-UserManual.pdf)
 
 A demonstration Ableton Live project is available to explore the device's functions: [Demo Project](Demo%20Project)
 
